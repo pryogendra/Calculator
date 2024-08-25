@@ -29,13 +29,13 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/calculator-kivy.git
+git clone https://github.com/pryogendra/Calculator.git
 
 Navigate to the Project Directory:
 
 bash
 
-cd calculator-kivy
+cd Calculator
 
 Run the Application:
 
